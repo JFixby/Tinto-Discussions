@@ -1,4 +1,4 @@
-# Tinto the Fox discussions forum
+# Tinto the Fox discussion board
 
 Leave your questions and comments [here](https://github.com/JFixby/Tinto-Discussions/issues)
 
